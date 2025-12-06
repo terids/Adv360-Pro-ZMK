@@ -38,11 +38,11 @@
         gleathy {
             display-name = "Gleathy";
             bindings = <
-&none          &kp N1      &kp N2   &kp N3     &kp N4     &kp N5  &tog 3                                                                                            &mo 4            &kp N6  &kp N7  &kp N8    &kp N9       &kp N0         &kp DELETE
-&kp TAB        &kp COMMA   &kp O    &kp U      &kp L      &kp J   &kp C_PLAY_PAUSE                                                                                  &kp C_VOLUME_UP  &kp V   &kp F   &kp D     &kp G        &kp Q          &kp BSLH
-&kp SEMICOLON  &kp I       &kp A    &kp E      &kp R      &kp W   &kp C_NEXT        &mt LEFT_COMMAND ESCAPE  &kp LEFT_CONTROL      &kp RIGHT_CONTROL  &kp LEFT_ALT  &kp C_VOL_DN     &kp Y   &kp H   &kp T     &kp S        &kp N          &kp MINUS
-&none          &kp PERIOD  &kp SQT  &kp SLASH  &kp X      &kp Z                                              &mo 2                 &kp CAPSLOCK                                      &kp K   &kp P   &kp M     &kp C        &kp B          &none
-&kp GLOBE      &kp HOME    &kp END  &kp LEFT   &kp RIGHT          &kp BSPC          &sk LEFT_SHIFT           &mo 3                 &tog 1             &kp ENTER     &kp SPACE                &kp UP  &kp DOWN  &kp PAGE_UP  &kp PAGE_DOWN  &kp GLOBE
+&none                  &kp N1      &kp N2   &kp N3     &kp N4     &kp N5  &kp C_PREVIOUS                                                                                    &mo 4            &kp N6  &kp N7  &kp N8    &kp N9       &kp N0         &kp DELETE
+&kp TAB                &kp COMMA   &kp O    &kp U      &kp L      &kp J   &kp C_PLAY_PAUSE                                                                                  &kp C_VOLUME_UP  &kp V   &kp F   &kp D     &kp G        &kp Q          &kp BSLH
+&kp SEMICOLON          &kp I       &kp A    &kp E      &kp R      &kp W   &kp C_NEXT        &mt LEFT_COMMAND ESCAPE  &kp LEFT_CONTROL      &kp RIGHT_CONTROL  &kp LEFT_ALT  &kp C_VOL_DN     &kp Y   &kp H   &kp T     &kp S        &kp N          &kp MINUS
+&kp LA(LC(LG(GLOBE)))  &kp PERIOD  &kp SQT  &kp SLASH  &kp X      &kp Z                                              &mo 2                 &kp CAPSLOCK                                      &kp K   &kp P   &kp M     &kp C        &kp B          &kp LA(LC(LG(GLOBE)))
+&kp GLOBE              &kp HOME    &kp END  &kp LEFT   &kp RIGHT          &kp BSPC          &sk LEFT_SHIFT           &mo 3                 &tog 1             &kp ENTER     &kp SPACE                &kp UP  &kp DOWN  &kp PAGE_UP  &kp PAGE_DOWN  &kp GLOBE
             >;
         };
 
